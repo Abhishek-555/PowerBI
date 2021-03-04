@@ -1,13 +1,5 @@
-# PowerBI
-This project creates an interactive dashboard for covid-19 analysis
-Link to the project: https://app.powerbi.com/groups/me/reports/32f69c8e-7503-4eb9-8e90-dee790d91015/ReportSection
+# PowerBI Projects
 
-It goes through the following concept
-Complete project explanation step by step
-Column chart
-Bar Chart
-daunt chart
-Measures
-Cards
+Covid 19 Analysis: https://app.powerbi.com/groups/me/reports/32f69c8e-7503-4eb9-8e90-dee790d91015/ReportSection
 
-Source Link--https://www.worldometers.info/coronav...
+Churn Analysis: https://app.powerbi.com/groups/me/reports/5c049f56-84f4-4272-8bcf-cb4e227d69ef/ReportSectionf0b39a54ecca054e20a0
